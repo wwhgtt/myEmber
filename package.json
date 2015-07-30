@@ -1,0 +1,14 @@
+{
+  "name": "myEmber",
+  "version": "0.0.1",
+  "description": "ember for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wwhgtt",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
+}
